@@ -1,7 +1,7 @@
 Google Search CLI
 ======
 
-Lets you search Google from the command line!
+Search Google from the command line!
 
 ##Installation
 ```

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+URL=`~/Dropbox/googleSearchScraper/google.py --stop=1 --num=1 $@`
+
+open $URL
